@@ -1,0 +1,15 @@
+D:\Programs\C#\ServerPinger\ServerPinger\bin\Debug\ServerPinger.exe.config
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Debug\ServerPinger.frmPinger.resources
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Debug\ServerPinger.Properties.Resources.resources
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Debug\ServerPinger.csproj.GenerateResource.Cache
+D:\Programs\C#\ServerPinger\ServerPinger\bin\Debug\ServerPinger.exe
+D:\Programs\C#\ServerPinger\ServerPinger\bin\Debug\ServerPinger.pdb
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Debug\ServerPinger.exe
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Debug\ServerPinger.pdb
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Debug\ServerPinger.csprojResolveAssemblyReference.cache
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Debug\ServerPinger.csproj.CoreCompileInputs.cache
+D:\Programs\C#\ServerPinger\ServerPinger\bin\Debug\Interop.WMPLib.dll
+D:\Programs\C#\ServerPinger\ServerPinger\bin\Debug\AxInterop.WMPLib.dll
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Debug\Interop.WMPLib.dll
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Debug\AxInterop.WMPLib.dll
+D:\Programs\C#\ServerPinger\ServerPinger\obj\Debug\ServerPinger.csproj.ResolveComReference.cache
